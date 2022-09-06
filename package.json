@@ -1,0 +1,23 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "Primer landing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hectord616/Landing.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Html"
+  ],
+  "author": "Hector David Quevedo Rozo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hectord616/Landing/issues"
+  },
+  "homepage": "https://github.com/Hectord616/Landing#readme"
+}
